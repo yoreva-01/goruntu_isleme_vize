@@ -28,7 +28,7 @@ Teknolojiler ve Kütüphaneler
 - Screen-brightness-control (Ekran parlaklığı kontrolü)
 - PyAutoGUI (UI kontrolü ve otomasyon)
 - NumPy
-
+- Spotify (Müzik kontrolü) 
 Proje Dosyaları
 yusuf_orcan_goruntuisleme_vize.py:
 - Sağ ve sol eldeki parmak hareketlerine dayalı olarak ses seviyesi ve ekran parlaklık kontrolünü sağlar.
