@@ -41,7 +41,8 @@ mp_hands = mp.solutions.hands
 hands = mp_hands.Hands(max_num_hands=2, min_detection_confidence=0.7)  # Maksimum 2 el, %70 güvenle algıla
 drawing = mp.solutions.drawing_utils  # Çizim için yardımcı fonksiyonlar
 
-# Zaman kontrol sınıfı: Hareketler arasında belirli bir süre beklemeyi sağlar
+# Zaman kontrol sınıfı: Hareketler arasında belirli bir süre beklemeyi sağlar, yapılan el hareketlerinin karışmaması için önemli
+# Bekleme süresi ayarlanabilir
 class ZamanKontrol:
     def __init__(self, bekleme=2):
         self.son_zaman = 0
@@ -126,3 +127,4 @@ while True:
 # Kamera işlemini sonlandır
 kamera.release()
 cv2.destroyAllWindows()
+        
