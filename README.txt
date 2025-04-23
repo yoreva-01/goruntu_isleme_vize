@@ -69,4 +69,4 @@ Eğer projeye katkıda bulunmak isterseniz:
 2. Değişikliklerinizi yapın.
 3. Pull request oluşturun.
 
-- Yusuf Orçan: Çukurova Üniversitesi KOZAN MYO - Görüntü işleme Projesi
+- Yusuf Orçan: Çukurova Üniversitesi KOZAN MYO Öğrencisi - Görüntü işleme Projesi
