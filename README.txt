@@ -10,10 +10,14 @@ kontrol edilip, varsayılan web tarayıcısı açılabilir.
 Proje Özellikleri
 Sağ El:
 - Baş ve işaret parmağı arasındaki mesafe ile ses seviyesi kontrolü.
+- İşaret ve orta parmak ile spotify açma işlemi
+- Elimizi yumruk yaparak müzik durdurma
+- İşaret ve serçe parmak ile varsayılan tarayıcıyı açma
 
 Sol El:
 - Baş ve işaret parmağı arasındaki mesafe ile ekran parlaklığı ayarı.
-- İşaret ve orta parmak ile web tarayıcısı açma işlemi.
+- İşaret ve orta parmak ile spotify kapatma işlemi
+- Elimizi yumruk yaparak müzik durdurma
 
 Global Özellikler:
 - Mediapipe kullanılarak el hareketlerinin algılanması.
