@@ -25,7 +25,7 @@ Global Özellikler:
 - Screen-brightness-control ile ekran parlaklığı ayarı.
 
 Teknolojiler ve Kütüphaneler
-- Python 3.x
+- Python 3.9 & 3.10 & 3.11
 - OpenCV
 - Mediapipe
 - PyCaw (Ses kontrolü)
