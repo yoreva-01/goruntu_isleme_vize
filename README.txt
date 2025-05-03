@@ -11,7 +11,7 @@ Proje Özellikleri
 Sağ El:
 - Baş ve işaret parmağı arasındaki mesafe ile ses seviyesi kontrolü.
 - İşaret ve orta parmak ile spotify açma işlemi
-- Elimizi yumruk yaparak müzik durdurma
+- Elimizi yumruk yaparak müzik oynatma
 - İşaret ve serçe parmak ile varsayılan tarayıcıyı açma
 
 Sol El:
