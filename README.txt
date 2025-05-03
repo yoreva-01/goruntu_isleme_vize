@@ -39,7 +39,7 @@ yusuf_orcan_goruntuisleme_vize.py:
 - Sağ ve sol eldeki parmak hareketlerine dayalı olarak ses seviyesi ve ekran parlaklık kontrolünü sağlar.
 
 yusuf_orcan_goruntuisleme111_vize.py:
-- Ek olarak, sağ eldeki hareketler ile Spotify kontrolünü ve sol eldeki hareketler ile tarayıcı açılmasını içerir.
+- Ek olarak, sağ eldeki hareketler ile Spotify ve tarayıcı kontrolünü ve sol eldeki hareketler ile spotify işlemleri içerir.
 
 Kurulum ve Çalıştırma
 Gerekli kütüphaneleri yükleyin:
